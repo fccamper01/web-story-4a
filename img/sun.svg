@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="308px" height="307px" viewBox="0 0 308 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>sun</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <ellipse id="Oval" fill="#EAD900" cx="148.5" cy="159" rx="74.5" ry="68"></ellipse>
+            <rect id="Rectangle" fill="#EAD900" x="144" y="216" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" x="143" y="0" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(206.513140, 62.154156) rotate(30.000000) translate(-206.513140, -62.154156) " x="201.01314" y="16.6541559" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(245.390354, 95.460081) rotate(50.000000) translate(-245.390354, -95.460081) " x="239.890354" y="49.9600807" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(257.105557, 144.551869) rotate(80.000000) translate(-257.105557, -144.551869) " x="251.605557" y="94.6431516" width="11" height="99.8174347"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(258.779964, 199.238096) rotate(110.000000) translate(-258.779964, -199.238096) " x="253.279964" y="149.329379" width="11" height="99.8174347"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(101.513140, 62.154156) rotate(-30.000000) translate(-101.513140, -62.154156) " x="96.0131397" y="16.6541559" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(62.390354, 91.460081) rotate(-50.000000) translate(-62.390354, -91.460081) " x="56.890354" y="45.9600807" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(45.763818, 143.317435) rotate(-80.000000) translate(-45.763818, -143.317435) " x="40.2638177" y="97.8174347" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(89.274250, 241.154156) rotate(30.000000) translate(-89.274250, -241.154156) " x="83.7742501" y="195.654156" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(209.513140, 241.154156) rotate(-30.000000) translate(-209.513140, -241.154156) " x="204.01314" y="195.654156" width="11" height="91"></rect>
+            <rect id="Rectangle" fill="#EAD900" transform="translate(44.637125, 198.730226) rotate(-110.000000) translate(-44.637125, -198.730226) " x="39.137125" y="153.230226" width="11" height="91"></rect>
+            <ellipse id="left-eye" fill="#FFFFFF" cx="117" cy="144.5" rx="12" ry="14.5"></ellipse>
+            <ellipse id="right-eye" fill="#FFFFFF" cx="182" cy="144.5" rx="12" ry="14.5"></ellipse>
+            <path d="M117,198.808594 C117,198.808594 121.363715,196.087198 127.236259,193.257281 C131.462547,191.220677 136.470292,189.127867 141.195384,187.952757 C143.581328,187.359383 145.895202,187 148,187 C149.580454,187 151.626697,187.398664 153.914205,188.049491 C158.148436,189.254187 163.209308,191.322867 167.672846,193.326396 C173.921812,196.131342 179,198.808594 179,198.808594" id="mouth" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

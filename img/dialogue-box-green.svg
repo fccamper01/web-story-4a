@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="187px" height="127px" viewBox="0 0 187 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>dialogue-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dialogue-box" fill="#8BC175">
+            <path d="M163.9,100.3 L23,100.3 C10.4,100.3 0,89.9 0,77.3 L0,23 C0,10.4 10.4,0 23,0 L163.9,0 C176.5,0 186.9,10.4 186.9,23 L186.9,77.3 C186.9,90 176.5,100.3 163.9,100.3 L163.9,100.3 Z" id="Shape"></path>
+            <polygon id="Shape" stroke="#8BC175" stroke-width="9" points="35.6 94.6 35.6 118 71.6 94.6"></polygon>
+        </g>
+    </g>
+</svg>

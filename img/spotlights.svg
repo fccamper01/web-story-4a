@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1637px" height="987px" viewBox="0 0 1637 987" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>spotlights</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.59977064%" id="linearGradient-1">
+            <stop stop-color="#E3C2C1" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#C28F8D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="main-building" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.593808302">
+        <g id="spotlights" transform="translate(-1.000000, -2.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Triangle" transform="translate(317.151590, 566.290912) rotate(151.000000) translate(-317.151590, -566.290912) " points="317.15159 83.5413019 412.175673 1049.04052 222.127508 1049.04052"></polygon>
+            <polygon id="Triangle" transform="translate(648.761867, 407.086976) rotate(216.000000) translate(-648.761867, -407.086976) " points="648.761867 -26.5505955 743.785949 840.724548 553.737785 840.724548"></polygon>
+            <polygon id="Triangle" transform="translate(906.584014, 380.561886) rotate(140.000000) translate(-906.584014, -380.561886) " points="906.584014 4.44217832 1001.6081 756.681594 811.559932 756.681594"></polygon>
+            <polygon id="Triangle" transform="translate(1334.603638, 555.811135) rotate(208.000000) translate(-1334.603638, -555.811135) " points="1334.60364 87.8331555 1429.62772 1023.78912 1239.57956 1023.78912"></polygon>
+        </g>
+    </g>
+</svg>
